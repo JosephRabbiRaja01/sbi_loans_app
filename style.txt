@@ -5,3 +5,7 @@ This is style file.
   padding: 0;
   box-sizing: border-box;
 }
+
+h1{
+ background-color: red;
+}
